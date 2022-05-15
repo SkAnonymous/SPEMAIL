@@ -26,7 +26,7 @@ def spam():
  ║   ░ ░▒  ░ ░   ░▒ ░          ▒   ▒▒ ░   ░  ░      ░   ║
  ║   ░  ░  ░     ░░            ░   ▒      ░      ░      ║
  ║         ░                       ░  ░          ░      ║ 
- │             » developed by @mkdirlove «              │
+ │             » developed by @SkAnonymous «            │
  └───════════════════════════════════════════════════───┘
 """ + bcolors.ENDC)
 
